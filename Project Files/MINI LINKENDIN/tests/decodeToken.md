@@ -1,1 +1,0 @@
-node decodeToken.js
